@@ -40,22 +40,22 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|   Ação   | prompt                                                                                                                                                                                                                                                                           |
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  imagem  | crie uma imagem no tamanho de um papel a4 de um jogador de futebol num estadio em ambiente escuro, em que ele está na marca do penalti. a camisa dele tem "javascript" atrás e o numero 10.  no lugar de torcedores nas arquibancadas, troque por códigos flutuantes que se assemelham a javascript. a imagem, dentro da proporção a4 deve conter um espaço livre acima para adicionar um título de ebook                                                                                           |
+| conteúdo | faça um texto para um ebook, com foco em introdução a javascript com tematica de futebol. - faça uma didatica leve com o futebol - foque no ensino .js mas insira tambem o futeebol em alguns pontos - explique sempre de maneira simples - deixe o texto enxuto - sempre traga exemplos de código leves e do futebol - sempre deixe um titulo sugestivo por topico |
 
 
 Gemini：
 
-|  Ação  | prompt                                                                                 |
-| :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| título | crie um titulo de um ebook sobre o tema de javascript, o ebook é do nicho do tema de programação, com o subtema de javascript. o titulo deve ser épico e curto e tenha uma temática mais futebolistica, me entregue 5 títulos |
+|  Ação  | prompt                                                                                                                                                                                                                                                                            |
+| :----: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| título | crie um titulo de um ebook sobre o tema de javascript, o ebook é do nicho do tema de programação, com o subtema de javascript. o titulo deve ser épico e curto e tenha uma temática mais futebolistica, me entregue 5 títulos                                                   |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo e imagens gerados via ChatGPT
+- Título gerado via Gemini
 
 ## 📚 Materiais
 
